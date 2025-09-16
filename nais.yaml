@@ -1,0 +1,21 @@
+apiVersion: nais.io/v1alpha1
+kind: Application
+metadata:
+  name: tada-homepage
+  namespace: tada
+  labels:
+    team: tada
+spec:
+  image: {{image}}
+  port: 8080
+  ingresses:
+    - https://tada.nav.no
+  resources:
+    requests:
+      cpu: "50m"
+      memory: "64Mi"
+  replicas:
+    max: 1
+    min: 1
+  liveness:
+    path: /

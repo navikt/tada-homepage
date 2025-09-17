@@ -14,7 +14,7 @@ RUN curl -L "https://github.com/caddyserver/caddy/releases/download/v${CADDY_VER
 
 RUN chown -R caddyuser:caddygroup /srv
 
-COPY docs/ /srv/
+COPY www/ /srv/
 
 RUN echo -e ':8080\nroot * /srv\nfile_server' > /srv/Caddyfile
 

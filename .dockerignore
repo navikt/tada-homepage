@@ -1,0 +1,12 @@
+# Send the smallest possible build context.
+# Ignore everything by default, then allow only what the image actually needs.
+**
+
+# Keep the Dockerfile and this file (not strictly necessary, but harmless and useful).
+!Dockerfile
+!.dockerignore
+
+# Re-include the parent dirs and then the built site contents.
+!site
+!site/_site
+!site/_site/**

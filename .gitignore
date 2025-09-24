@@ -1,1 +1,14 @@
+# IDE
 /.idea
+.vscode/
+
+# Quarto build outputs and caches
+.quarto/
+site/_site/
+**/_freeze/
+**/.ipynb_checkpoints/
+**/*.quarto_ipynb
+
+# OS junk
+.DS_Store
+Thumbs.db

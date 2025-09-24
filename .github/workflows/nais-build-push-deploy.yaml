@@ -22,7 +22,7 @@ jobs:
         working-directory: site
         run: |
           quarto check install
-          quarto render
+          quarto render --no-prompt
       - name: Verify build exists
         run: |
           test -d site/_site && ls -la site/_site

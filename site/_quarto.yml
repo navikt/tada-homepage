@@ -7,24 +7,24 @@ project:
     - assets/
 
 website:
-  title: "TADA: Ansvarlig KI og dataanalyse i NAV"
+  title: "TADA"
   site-url: "https://tada.nav.no"   # enables sitemap/canonicals
   favicon: images/tada-logo.svg
   navbar:
     logo: images/tada-logo.svg
     left:
       - href: index.qmd
-        text: Hjem
-      - href: tadager.qmd
-        text: TADAger
-      - href: analyser.qmd
-        text: Analyser
+        text: About us
+      - href: events.qmd
+        text: Events
+      - href: projects.qmd
+        text: Projects
   search: true
   page-navigation: true
 
 format:
   html:
-    lang: nb
+    lang: en
     theme: cosmo
     css: assets/css/styles.css
     toc: true

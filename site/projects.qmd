@@ -1,0 +1,17 @@
+---
+title: "Projects"
+---
+
+## Tools and articles
+
+- [Beslutt](https://beslutt.nav.no/)
+- [Principles for responsible AI](https://aksel.nav.no/god-praksis/artikler/prinsipper-for-ansvarlig-ki-i-nav)
+
+
+## Research and projects we've been involved in
+- [ENACT](https://www.enactai.no/)
+- [AI4Users](https://ai4users.uia.no/)
+- [Common framework for ethical standards of AI in Public Employment Services](https://employment-social-affairs.ec.europa.eu/policies-and-activities/coordination-employment-and-social-policies/european-network-public-employment-services-pes-network_en)
+
+## Analyses
+

@@ -1,5 +1,15 @@
 ---
-title: "TADA"
+title: "We are Team TADA: Trygg AI og DataAnalyse"
+toc: false
 ---
 
-Here is some info about the team.
+We [enable](https://teamtopologies.com/key-concepts) Responsible AI and data science at [the Norwegian Labour and Welfare Administration (Nav)](https://nav.no).
+
+We provide feedback, guidance, and technical assistance, in addition to shaping policy and governance frameworks. We keep abreast of trends in AI/ML and data science by partnering with research institutions, participating in conferences and meetups, and exploring new technology and methods, sharing what we learn both inside and outside of Nav.
+
+
+## Work at Nav?
+These links to Nav-internal resources might be of interest:
+
+- [View our page in the Team Catalogue.](https://teamkatalog.nav.no/team/faad3209-800e-44ed-8fc2-cde6eba69f1c)
+- [Contact us on Slack.](https://nav-it.slack.com/archives/C03CXENSLMV)

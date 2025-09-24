@@ -7,6 +7,15 @@ We [enable](https://teamtopologies.com/key-concepts) Responsible AI and data sci
 
 We provide feedback, guidance, and technical assistance, in addition to shaping policy and governance frameworks. We keep abreast of trends in AI/ML and data science by partnering with research institutions, participating in conferences and meetups, and exploring new technology and methods, sharing what we learn both inside and outside of Nav.
 
+## What our team members are working on right now:
+
+- Providing responsible AI perspectives in Nav's Copilot-pilot.
+- A Responsible AI analysis of Nav Contact Center's chatbot "Bob".
+- Contributing to Nav's consultation response on the Norwegian implementation of EU's AI Act.
+- Participating in the core working group that's drafting an AI governance system for Nav.
+- Planning the next TADAgen about standards for LLMs in public administration.
+- This homepage. 
+
 
 ## Work at Nav?
 These links to Nav-internal resources might be of interest:

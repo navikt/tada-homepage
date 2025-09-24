@@ -1,13 +1,22 @@
 ---
 title: "Events"
 ---
+## In the works
 
-## Events we've arranged
+- TADAgen about standards for language models in public administration. More info coming soon!
 
+## Past events
 
-## Events we've presented at
+### TADAger
+
+### Other events at Nav
+
+- [Mangfold i mai](https://mangfoldimai.no/)
+- KI: Quo vadis?
+
+### Events arranged by others
+
 - [Arendalsuka](https://www.arendalsuka.no/programsoek/details/40959)
 - [AI Fairness Cluster Conference & AIMMES Workshop](https://ai-fairness-cluster.zohobackstage.com/AIFairnessClusterConference2025)
 - [fAIrGov](https://bookdown.org/sveinungarnesen78/fairgov-website/fairgov-website.html)
-- [Mangfold i mai](https://mangfoldimai.no/)
 

@@ -1,9 +1,20 @@
 ---
-title: "We are Team TADA: Trygg AI og DataAnalyse"
+title: "We are Team TADA"
+subtitle: "*Trygg AI og DataAnalyse*"
 toc: false
+#lang: fr
+#image: images/tada-logos/logo_utenbg_m_tada.svg
+fig-format: svg
+about: 
+    template: marquee
+    image-shape: round
+    #image-width: 20em
+    image-alt: "TADA logo featuring a swirling magic wand that traces the outline in the shape of a legal paragraph, leaving a trail of five sparkling stars."    
 ---
 
 We [enable](https://teamtopologies.com/key-concepts) Responsible AI and data science at [the Norwegian Labour and Welfare Administration (Nav)](https://nav.no).
+
+We are responsible for maintaining Nav's [Principles for responsible AI](https://aksel.nav.no/god-praksis/artikler/prinsipper-for-ansvarlig-ki-i-nav), as well as providing guidance on how the principles can be complied with in practise. 
 
 We provide feedback, guidance, and technical assistance, in addition to shaping policy and governance frameworks. We keep abreast of trends in AI/ML and data science by partnering with research institutions, participating in conferences and meetups, and exploring new technology and methods, sharing what we learn both inside and outside of Nav.
 
@@ -14,7 +25,7 @@ We provide feedback, guidance, and technical assistance, in addition to shaping 
 - Contributing to Nav's consultation response on the Norwegian implementation of EU's AI Act.
 - Participating in the core working group that's drafting an AI governance system for Nav.
 - Planning the next TADAgen about standards for LLMs in public administration.
-- This homepage. 
+- This homepage... 
 
 
 ## Work at Nav?

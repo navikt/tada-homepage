@@ -2,16 +2,34 @@
 title: "Projects"
 ---
 
+## Model Cards
+
+A model card is a short, standardised document that accompanies ML-models carrying key information about the model. They make the model’s capabilities, constraints, and ethical footprint explicit, enabling responsible deployment and easier governance.
+
+ Model cards contribute to:
+
+* **Transparency** : Stakeholders can quickly the models intendended purpose, training data, performance tests and known limitations.
+
+* **Accountability** : Provenance information improves auditability and compliance.
+
+* **Safety** : Surfacing bias metrics, failure cases and ethical considerations made, model cards can help mitigate unintended harm.
+
+Model cards are recommended as a governance tool. To this end [TADA is exploring their feasbility and fit](kortstokken) in Nav. 
+
+
+## AI-act navigation tools
+TADA is working with KI-gruppa/Juridisk in developing tools to help teams in Nav navigate the upcoming AI-act.
+
+- [Er jeg provicder eller deployer?](https://beslutt.nav.no/tree.html?id=provider-deployer)
+
+- [Hvilket risikonivå har KI-systemet mitt?](https://beslutt.nav.no/tree.html?id=risiko)
+
 ## Tools and articles
 
 - [Beslutt](https://beslutt.nav.no/)
 - [Principles for responsible AI](https://aksel.nav.no/god-praksis/artikler/prinsipper-for-ansvarlig-ki-i-nav)
 
 
-## Research and projects we've been involved in
-- [ENACT](https://www.enactai.no/)
-- [AI4Users](https://ai4users.uia.no/)
-- [Common framework for ethical standards of AI in Public Employment Services](https://employment-social-affairs.ec.europa.eu/policies-and-activities/coordination-employment-and-social-policies/european-network-public-employment-services-pes-network_en)
 
 ## Analyses
 

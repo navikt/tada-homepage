@@ -1,0 +1,23 @@
+---
+title: "Publications"
+---
+
+
+
+* Bore, I.S., Prabhu, R., & Sjødin, J. (2025). [Assessing discrimination risk from generated content in the wild – a case study from the Norwegian Labour and Welfare Administration](https://ceur- ws.org/Vol-3961/paper2.pdf), Proceedings of the 2nd Workshop on AI bias:Measurements, Mitigation, Explanation Strategies, CEUR Workshop Proceedings 3961 146-151. https://ceur-ws.org/Vol-3961/paper2.pdf
+
+* Moltzau, A., & Prabhu, R. (2024). [Castles in the Sand?: How the Public Sector and Academia Can Partner in Regulatory Sandboxes to Help Leverage Generative AI for Public Good](https://doi.org/10.1162/99608f92.cdfc3092). Harvard Data Science Review, (Special
+Issue 5). https://doi.org/10.1162/99608f92.cdfc3092
+
+* Jullum, M., Sjødin, J., Prabhu, R., & Løland, A. (2023). [eXplego: An interactive Tool that Helps you Select Appropriate XAI-methods for your Explainability Needs](https://hdl.handle.net/11250/3105787). CEUR Workshop Proceedings 2023, 3554 146-151.
+https://hdl.handle.net/11250/3105787
+
+* Storås, A. M., Prabhu, R., Hammer, H. L., & Strümke, I. (2022). [Bias og kvantitativ analyse innen velferd. Tidsskrift for velferdsforskning](https://doi.org/10.18261/tfv.25.3.3), 25(3), 1-24. https://doi.org/10.18261/tfv.25.3.3
+
+
+### Publications we have contributed to
+
+- [Common framework for ethical standards of AI in Public Employment Services](https://employment-social-affairs.ec.europa.eu/policies-and-activities/coordination-employment-and-social-policies/european-network-public-employment-services-pes-network_en) (In preparation)
+
+
+- [Innebygd diskrimineringsvern - En veileder for å avdekke og forebygge diskriminering i utvikling og bruk av kunstig intelligens](https://ldo.no/content/uploads/2024/06/Innebygd-diskrimineringsvern-2023.pdf), Likestillings- og diskrimineringsombudet (2023)

@@ -1,0 +1,237 @@
+---
+title: "Research partnerships"
+format: html
+---
+
+## Pågående prosjekter
+
+:::{.callout-note collapse="true"}
+## [ENACT](https://www.enactai.no)
+
+### Hva? 
+Prosjektet har som mål å utvikle metodikk som tilrettelegger for etiske prinsipper og retningslinjer for norsk offentlig og privat sektor som tar i bruk Kunstig intelligens (KI)-baserte systemer.
+
+### Hvem? 
+
+### Når?
+:::
+
+## Kommende prosjekter
+
+:::{.callout-note collapse="true"}
+## [TRUST - The Norwegian Centre for Trustworthy AI]()
+
+### Hva? 
+
+### Hvem? 
+
+### Når?
+:::
+
+## Tidligere prosjekter
+
+:::{.callout-note collapse="true"}
+## [BigInsight](https://www.biginsight.no/)
+
+### Hva?
+
+BigInsight er et forskningsbasert innovasjonssenter med mål om å utvikle statistiske og ML-baserte metoder for å løse praktiske problemer i privat og offentlig sektor.
+
+### Hvem?
+
+_Akademiske partnere_: NR, UiO og UiB
+
+_Andre partnere_: ABB, DNB, DNV, Gjensidige, Hydro, Telenor, Skatteetaten, Oslo Universitetssykehus, SSB, FHI, Kreftregisteret
+
+### Når?
+
+2015-2023
+
+### Tematikk
+
+- Maskinlæringsteknikker
+- statisiske metoder
+- beregningsmetoder
+- forklarbarhetsteknikker
+
+### Hva gjør NAV?
+
+NAV og NR har jobbet med utvikling og tilpassing av forklarbarhetsmetodikk.
+Team isyfo (PO Helse) har vært innvolvert i forsøk på å ta i bruk Shapley-baserte forklaringer. Vurderingene ble tatt med til Datatilsynets regulatoriske sandkasse. TADA har sammen med NR utviklet verktøyet [eXplego](https://explego.nr.no).
+:::
+
+:::{.callout-note collapse="true"}
+## [CLEANUP](https://cleanup.nr.no/)
+
+### Hva?
+
+The project sets out to develop new computational models and processing techniques to automatically anonymise unstructured data containing personal information, with a specific focus on text documents.
+
+### Hvem?
+
+_Akademiske partnere_: NR, UiO (IFI), UiO (Juridisk fakultet), NTNU, Universitat Rovira i Virgili (Spania), OsloMET
+
+_Andre partnere_: DNB, Gjensidige, Lovdata, Arkivdata, Helseregisteret, UiO (USIT)
+
+### Når?
+
+2020-2023
+
+### Tematikk
+
+- Utvikling av NLP-basert metodikk og verktøy for tekstanonymisering
+- Utvikling av metodikk for å vurdere anonymiseringsgrad
+- Analyse av juridisk literatur for å vurdere hvordan tekstanonymiseringsteknikker mapper til juridiske begreper om anonymitet.
+
+### Hva gjør NAV?
+
+Ingen aktiviteter på huset er direkte knyttet til prosjektet, men TADA jobber med CLEANUP for å lage en praktisk veiledning for tekstanonymisering.
+
+Prosjektet har vært flinke til å produsere og dele, så interesserte kan dra nytte av software, papers, seminarer, ++ som holdes. Se [hjemmesiden](https://cleanup.nr.no/) til prosjektet.
+:::
+
+:::{.callout-note collapse="true"}
+## [AI4Users](https://ai4users.uia.no/)
+
+### Hva?
+
+The project takes a human-centred perspective addressing the needs of different groups including citizens, case handlers at the operational level, middle managers and policy makers.
+
+Specifically the project includes:
+
+- design, prototyping and assessing tools enabling different categories of non-experts to maintain insight into AI applications
+- formalization of the design knowledge generated in actionable design principles
+- capacity building through collaborations between academia and the public sector nationally and internationally
+
+### Hvem?
+
+_Akademiske partnere_: UiA, UiO, NTNU
+
+_Andre partnere_: Dataseksjonen og lokalkontorer i Trøndelag og på Sørlandet.
+
+### Tematikk
+
+- Design Research
+- Forklarbarhet
+- Brukerinnvolvering
+
+### Hva gjør NAV?
+
+De akademiske partnerne drivre frem arbeidet og presenterer jevnlig for NAV:
+
+- Utvikling av interactive template for å gi informasjon til bruker ifm profilering
+- Testing på ulike brukere
+- Metaanalyse av alle case i Datatilsynets regulatoriske sandkassen++
+:::
+
+:::{.callout-note collapse="true"}
+## [NORCE - Demokratiske algoritmer](https://www.nav.no/no/nav-og-samfunn/kunnskap/forskningsrapporter-og-evalueringer-finansiert-av-nav/navs-tiltak-og-virkemidler-rapportarkiv/demokratiske-algoritmer-norce) (2020-2022)
+
+### Hva?
+
+Prosjektet «Demokratiske algoritmer» bygger på en spørreundersøkelse sendt ut til et befolkningsrepresentativt utvalg av innbyggere i Norge gjennom [norsk medborgerpanel](https://www.uib.no/medborger). Hensikten var å få frem vurderinger av bruken av maskinlæring i forvaltningen.
+
+### Hvem?
+
+Akademiske partnere: NORCE/UiB
+
+Forskning finansiert av FoU-programmet.
+
+### Når?
+
+2021-2022
+
+### Tematikk
+
+- Brukeroppfatninger
+- Relasjon mellom NAV og innbyggere og hvordan denne påvirkes av evt bruk av ML i forvaltningen
+- Generelle holdninger og kunnskap om ML i befolkningen.
+
+### Hva gjør NAV?
+
+Dataseksjonen har bistått med innspill i utforming av spørreundersøkelsen. Ellers er arbeidet gjennomført av NORCE. Forskningsprosjektet er nå avsluttet.
+:::
+
+:::{.callout-note collapse="true"}
+## [Menneske og maskin](https://www.nav.no/no/nav-og-samfunn/kunnskap/fou-midler/pagaende-fou-prosjekter2/palitelig-forvaltning)
+
+### Hva?
+
+Hvordan legge til rette for bedre behovsavklaringer i NAV gjennom å kombinere maskinelle og relasjonelle prosesser? Dette bidragsfinansierte prosjektet skal utforske hvordan innledende behovsvurderinger gjøres i NAV i dag, samt hvordan maskinlæringsmodeller kan inngå som beslutningsstøtte i vurderingsprosessene.
+
+### Hvem?
+
+_Akademiske partnere_: FAFO
+
+Forskning finansiert av FoU-programmet.
+
+### Når
+
+2022-2025
+
+### Tematikk
+
+- ML i forvaltning
+- Profilering
+- Beslutningsstøtte i forvaltningskontekst
+
+### Hva gjør NAV?
+
+Dataseksjonen har gitt innspill til innretning, fasilitert kontakt med relevante team og gir innspill til rapporter.
+:::
+
+:::{.callout-note collapse="true"}
+## [Digital Velferdsstat](https://www.jus.uio.no/ior/forskning/prosjekter/digivel/)
+
+### Hva?
+
+Norsk forvaltning er i endring. Digitale elementer i saksbehandling er ikke nytt, men i dag er det mulig for offentlig forvaltning å automatisere, forutsi, identifisere, utrede, overvåke, avdekke, målrette og sanksjonere på nye måter, og i langt større omfang enn tidligere. Det er gitt nye hjemler for helautomatisert saksbehandling, det gjøres forsøk med maskinlæring og kunstig intelligens, og innovativ bruk av stordata. Analysen av velferdsstaten og forvaltningen må utvikles parallelt med den tekniske og politiske utviklingen. Innen tradisjonelle juridiske fagområder som forvaltningsrett, trygderett og diskrimineringsrett må kjente rettslige regler og begreper vurderes på nytt, og nye utvikles. Samtidig påvirkes norsk forvaltning av den raske utviklingen av internasjonale rettskilder og retningslinjer som omhandler ulike former for digitalisering.
+
+Gjennom forskning, undervisning og formidling skal prosjektet Digital velferdsstat bidra til å utvikle rettslig analyse av fremtidens velferdsstat.
+
+### Hvem?
+
+_Akademiske partnere_: UiO - Institutt for offentlig rett, Det juridiske fakultet
+
+### Når
+
+2021-2024 (?)
+
+### Tematikk
+
+- Rettslig analyse
+- KI og juss
+- Forvaltningsrett i møte med digitaliseringen
+
+### Hva gjør NAV?
+
+Flere masterstudenter har skrevet/skriver oppgaver med innspill og støtte fra bl.a. Dataseksjonen.
+
+NAV-ansatte kan delta på kurset [JFVU1100 - Retten og den digitale velferdsstaten](https://www.uio.no/studier/emner/jus/jus/JFVU1100/index.html).
+:::
+
+:::{.callout-note collapse="true"}
+## [Menneskesentrert AI](https://www.nav.no/no/nav-og-samfunn/kunnskap/fou-midler/samarbeid-med-universitet-og-hoyskoler/universitetet-i-agder)
+
+### Hva?
+
+Fireårige avtale med FoU-seksjonen som innebærer forskning på temaer som digitalt medborgerskap, kunstig intelligens, og på kanaler hvor innbyggerne møter NAV. Særlig sporet "Menneskesentrert AI" er av relevans for arbeid i Dataseksjonen.
+
+### Hvem?
+
+_Akademiske partnere_: UiA
+
+### Når?
+
+2023-2027
+
+### Tematikk
+
+- Hvordan kan vi etablere effektivt samarbeid mellom mennesker og kunstig intelligens?
+- Hvordan kan kunstig intelligente systemer være intuitive, enkle å bruke og tilgjengelig for alle innbyggerne?
+- Hvordan sikrer vi at disse systemene er stabile og pålitelige?
+
+### Hva gjør NAV?
+
+Helt i oppstarten -- mulighet til å være med å utforme og involveres i prosjektet. (Ta kontakt med #tada).
+:::

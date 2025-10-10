@@ -19,14 +19,41 @@ website:
         text: Events
       - href: projects.qmd
         text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: research.qmd
+        text: Research
+  sidebar: 
+    logo: images/tada-logos/logo_utenbg_m_tada.svg
+    fig-format: svg
+    style: "floating"
+    collapse-level: 1
+    search: true
+    contents: 
+      - section: "Tools, Guides & Tutorials"
+        contents:
+          - anonymisation_guides.qmd
+          - explainability_guides.qmd
+          - fairness_guides.qmd
+          - AI_act_guides.qmd
+      - section: "Analyses"
+        contents:
+          - fairness_ana.qmd 
   search: true
   page-navigation: true
 
 format:
   html:
     lang: en
-    theme: cosmo
+    theme: #cosmo
+      light: [flatly]
+      dark: [darkly]
     css: assets/css/styles.css
     toc: true
     toc-depth: 3
     link-external-newwindow: true
+    grid:
+      sidebar-width: 150px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem

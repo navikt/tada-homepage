@@ -1,0 +1,5 @@
+---
+title: "Fairness"
+---
+
+{{< embed Bias_tutorial.ipynb >}}

@@ -5,9 +5,87 @@ title: "Events"
 
 - TADAgen about standards for language models in public administration. More info coming soon!
 
-## Past events
 
-### TADAger
+## TADAgen!
+
+**TADAgen!** er TADAs flaggskip-arrangement. Ca. to ganger i året inviterer både interne og eksterne til å gjøre et dypdykk inn i aktuell tematikk i grensesjiktet mellom teknologi, juss and etikk. 
+
+#### Past events
+<details>
+<summary>Mai 25: **KI og diskriminering** (sammen med Juridisk møteplass og Mangfold i mai)</summary>
+- TADA deler: *Hvordan diskriminering egentlig algoritmer?* 
+- Team: Eidar Grande Vollan, Design, *Vi har alle bias! Hva skiller egentlig menneske og maskin?* 
+- Utfordrere utenfra: 
+    - Prof. Vibeke Blaker Strand (UiO) har tatt Likestillings- og diskrimineringsloven i nærmere øyesyn og argumenterer for at den trenger en oppgradering for å møte utfordringene som KI bringer med seg.
+    - Aravindan Balasubramaniam (JD) har sett på ulike lovverk for å vurdere om Nav og andre forvaltningsorganer kan bruke data for å vurdere om algoritmene de lager diskriminerer. Har vi ikke tross alt en plikt til dette? Og kan vi bruke særlige kategorier av personopplysninger som f.eks. etnisitet og legning hvis målet er å forebygge diskriminering?
+</details>
+
+<details>
+<summary>Okt 24: **Tekstanonymisering**</summary>
+- TADA deler: *Hvorfor er tekstanonymisering så vanskelig?*
+- Team: Mickel Hoang, Sara Elise Wøllo , *TryggTekst*
+- Utfordrer utenfra: Pierre Lison, Norsk Regnesentral / CLEANUP, *En veileder og beste praksis for tekstanonymisering*
+- Tutorial: 
+</details>
+
+<details>
+<summary>Jan 24: **Forklarbarhet**</summary>
+- *Vi spør matematikeren: ...hvordan går forskerne frem for å forklare modeller og hvilke metoder finnes der ute i dag?*, Martin Jullum, Norsk Regnesentral
+- TADA deler: *Demo av verktøyet eXplego​; hvordan kan utviklingsteamene gå frem for å  velge riktig forklarbarhetsmetode?* 
+- *Vi spør juristen: ...er modellforklaringene anvendelige fra et juridisk perspektiv?* , Åse Haram, Nav / Juridisk fakultet (UiO)​
+- *Vi spør designeren: ...​hva slags forklaringer ønsker egentlig brukeren seg fra NAV?*​, Stefan Schmager, Universitetet i Agder​
+</details>
+
+<details>
+<summary>Sep 23: **Generativ KI**</summary>
+- TADA deler: *Arbeid med GKI-veileder* + ​*tidlige erfaringer med Bing Chat Enterprise​*
+- Team: Rita Gyland, Juridisk seksjon, *Hvem er AI-gruppa?*
+- Team: Hans-Kristian Flaatten​, Utvikling, *Retningslinjer for Github Copilot* + *demo* + *diskusjon om merkingskrav*
+- Utfordrere utenfra: 
+    - Ailo Ravna, Forbrukerrådet, *Ghost in the Machine: addressing the consumer harms of generative AI*
+    - Leonora Onarheim Bergsjø​, Høgskolen i Østfold, *Digital etikk*
+</details>
+
+<details>
+<summary>Jun 23: **Hvordan bør Nav forholde seg til generativ KI?**</summary>
+- TADA deler: *Store språkmodeller på 10 min* og *generell veileder for generativ KI i Nav*
+- Team: Eilif Johansen, ResearchOps, *Klarspråkhjelpen m/ chatGPT-støtte​*
+- Utfordrer utenfra: Jens A. Osberg, DigDir, *AI-Act og Generativ KI – siste nytt fra Brussel og Strasbourg! … og kanskje litt om GKI-veilederen​*
+</details>
+
+<details>
+<summary>Mai 23: **Rettslige perspektiver på digitalisering av velferdstaten**</summary>
+- TADA deler: 
+- Team: Emilie Mellbye Rytter-Ingebrigtsen, *Einstein – bruk av kunstig intelligens i NKS​ - vurdering av rettslig grunnlag, m.m.*​
+- Utfordrere utenfra: 
+    - Jon Christian Fløysvik Nordrum, *Speed-tutorial»: rettssystemet, rettsikkerhet og forvaltningsrett​*,
+    - Ingunn Ikdahl, Institutt for offentlig rett, Juridiske fakultet, UiO, *Et juristblikk på digitalisering av velferdsstaten​*    
+</details>
+
+<details>
+<summary>Mar 23: **Godt og blandet**</summary>
+- TADA deler: *model cards*
+- Team: Team Paw, *pseudonymisering*
+- Utfordrer utenfra: Lisa Reutter, NTNU, *Datafication of public administration: Between policy and practice*
+</details>
+
+<details>
+<summary>Jan 23: **Godt og blandet**</summary>
+- TADA deler: *differential privacy i datafortellinger​*
+- Team: Milad Dagdoni, Team Tiltak, *​syntetisering av kategoriske tabulære data​*    
+- Utfordrer utenfra: Jan Roar Beckstrøm, Riksrevisjonen​, *revisjon av algoritmiske systemer*
+</details>
+
+
+
+
+
+
+
+
+
+
+
 
 ### Other events at Nav
 

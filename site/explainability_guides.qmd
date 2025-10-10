@@ -1,0 +1,8 @@
+---
+title: "Explainability"
+---
+
+### Velg riktig forklarbarhetsmetode!
+Det finnes mange ulike forklarbarhetsmodeller. Hvordan finner du den som passer best til ditt formål?
+
+- [eXplego](https://explego.nr.no/)

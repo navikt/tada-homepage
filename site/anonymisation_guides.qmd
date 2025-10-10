@@ -1,0 +1,12 @@
+---
+title: "Anonymisation"
+---
+
+
+## Microdata Anonymisation
+
+## Tabular Anonymisation
+
+## Text Anonymisation
+- [CLEANUP-veilder for anonymisering av tekst](https://data.nav.no/fortelling/cleanup-guide/)
+

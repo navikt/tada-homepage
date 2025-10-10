@@ -9,7 +9,7 @@ spec:
   image: {{image}}
   port: 8080
   ingresses:
-    - https://tada.nav.no
+    - https://tada.ansatt.nav.no
   resources:
     requests:
       cpu: "10m"

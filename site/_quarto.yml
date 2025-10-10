@@ -8,7 +8,7 @@ project:
 
 website:
   title: "TADA"
-  site-url: "https://tada.nav.no"   # enables sitemap/canonicals
+  site-url: "https://tada.ansatt.nav.no"   # enables sitemap/canonicals
   favicon: images/tada-logo.svg
   navbar:
     logo: images/tada-logo.svg

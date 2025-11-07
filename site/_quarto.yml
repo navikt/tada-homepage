@@ -14,15 +14,15 @@ website:
     logo: images/tada-logo.svg
     left:
       - href: index.qmd
-        text: About us
+        text: Om oss
       - href: events.qmd
-        text: Events
+        text: Arrangementer
       - href: projects.qmd
-        text: Projects
+        text: Prosjekter
       - href: publications.qmd
-        text: Publications
+        text: Publikasjoner
       - href: research.qmd
-        text: Research
+        text: Forskningsprosjekter
   sidebar: 
     logo: images/tada-logos/logo_utenbg_m_tada.svg
     fig-format: svg
@@ -30,13 +30,13 @@ website:
     collapse-level: 1
     search: true
     contents: 
-      - section: "Tools, Guides & Tutorials"
+      - section: "Verktøy, veiledning & tutorials"
         contents:
           - anonymisation_guides.qmd
           - explainability_guides.qmd
           - fairness_guides.qmd
           - AI_act_guides.qmd
-      - section: "Analyses"
+      - section: "Analyser"
         contents:
           - fairness_ana.qmd 
   search: true

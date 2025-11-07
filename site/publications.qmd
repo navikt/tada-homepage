@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publikasjoner"
 ---
 
 
@@ -15,7 +15,7 @@ https://hdl.handle.net/11250/3105787
 * Storås, A. M., Prabhu, R., Hammer, H. L., & Strümke, I. (2022). [Bias og kvantitativ analyse innen velferd. Tidsskrift for velferdsforskning](https://doi.org/10.18261/tfv.25.3.3), 25(3), 1-24. https://doi.org/10.18261/tfv.25.3.3
 
 
-### Publications we have contributed to
+### Andre publikasjoner vi har bidratt til
 
 - [Common framework for ethical standards of AI in Public Employment Services](https://employment-social-affairs.ec.europa.eu/policies-and-activities/coordination-employment-and-social-policies/european-network-public-employment-services-pes-network_en) (In preparation)
 

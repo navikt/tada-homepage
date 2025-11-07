@@ -1,5 +1,5 @@
 ---
-title: "We are Team TADA"
+title: "Vi er Team TADA"
 subtitle: "*Trygg AI og DataAnalyse*"
 toc: false
 #lang: fr
@@ -9,27 +9,25 @@ about:
     template: marquee
     image-shape: round
     #image-width: 20em
-    image-alt: "TADA logo featuring a swirling magic wand that traces the outline in the shape of a legal paragraph, leaving a trail of five sparkling stars."    
+    image-alt: "TADA-logo med en svingende tryllestav som tegner omrisset i form av et juridisk paragraftegn, og etterlater seg et spor av fem glitrende stjerner."   
 ---
 
-We [enable](https://teamtopologies.com/key-concepts) Responsible AI and data science at [the Norwegian Labour and Welfare Administration (Nav)](https://nav.no).
+[TADA](https://teamkatalog.nav.no/team/faad3209-800e-44ed-8fc2-cde6eba69f1c) [støtter](https://teamtopologies.com/key-concepts) ansvarlig KI og data science i Nav.
 
-We are responsible for maintaining Nav's [Principles for responsible AI](https://aksel.nav.no/god-praksis/artikler/prinsipper-for-ansvarlig-ki-i-nav), as well as providing guidance on how the principles can be complied with in practise. 
+Vi er ansvarlige for Navs [prinsipper for ansvarlig KI](https://aksel.nav.no/god-praksis/artikler/prinsipper-for-ansvarlig-ki-i-nav), og for tilby rettledning, samt å bistå i vurderinger av hvordan prinsippene can etterleves i praksis.
 
-We provide feedback, guidance, and technical assistance, in addition to shaping policy and governance frameworks. We keep abreast of trends in AI/ML and data science by partnering with research institutions, participating in conferences and meetups, and exploring new technology and methods, sharing what we learn both inside and outside of Nav.
+Vi gir tilbakemeldinger, veiledning og teknisk bistand, i tillegg til å bidra til utforming av policy og styringsrammeverk. Vi holder oss oppdatert på trender innen AI/ML og datavitenskap ved å samarbeide med forskningsinstitusjoner, delta på konferanser og meetups, og utforske ny teknologi og metoder – og deler det vi lærer både internt og eksternt i Nav.
 
-## What our team members are working on right now:
+## Hva jobber vi med høsten 25?
 
-- Providing responsible AI perspectives in Nav's Copilot-pilot.
-- A Responsible AI analysis of Nav Contact Center's chatbot "Bob".
-- Contributing to Nav's consultation response on the Norwegian implementation of EU's AI Act.
-- Participating in the core working group that's drafting an AI governance system for Nav.
-- Planning the next TADAgen about standards for LLMs in public administration.
-- This homepage... 
+- Navs pilot av M365 Copilot
+- Analyse av NKS-løsningen "Bob" opp mot Navs prinsipper for ansvarlig KI. 
+- Ferdigstille [analyse](https://data.ansatt.nav.no/quarto/a88016a5-d1f6-4702-b865-e668839538c3/index.html) av løsningen [Superrask Søknad](https://arbeidsplassen.nav.no/superrask-soknad-person)
+- Inspill til Navs høringssvar til [høring til utkast til ny lov om kunstig intelligens](https://www.regjeringen.no/no/dokumenter/3112327/id3112327/)
+– Deltar og bistår i kjernegruppen som utarbeider et styringssystem for kunstig intelligens i Nav.
+- Utvikling av verktøy for avhjelpe team med å forstå sine forpliktelser ifm KI-forordningen
+– Planlegge TADAgen 10. november med fokus på krav til språkmodeller i offentlig forvaltning.
+– Denne hjemmesiden…
 
-
-## Work at Nav?
-These links to Nav-internal resources might be of interest:
-
-- [View our page in the Team Catalogue.](https://teamkatalog.nav.no/team/faad3209-800e-44ed-8fc2-cde6eba69f1c)
-- [Contact us on Slack.](https://nav-it.slack.com/archives/C03CXENSLMV)
+## Noe du lurer på eller noe vi kan hjelpe med?
+- Ta kontakt på [Slack.](https://nav-it.slack.com/archives/C03CXENSLMV)

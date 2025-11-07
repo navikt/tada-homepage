@@ -1,9 +1,9 @@
 ---
-title: "Events"
+title: "Arrangementer"
 ---
 ## In the works
 
-- TADAgen about standards for language models in public administration. More info coming soon!
+- [TADAgen! 10. november](https://delta.nav.no/event/87caaf16-97bb-4449-882b-fff5b92f4f7d) om krav til språkomodeller i offentlig forvaltning
 
 
 ## TADAgen!
@@ -77,22 +77,12 @@ title: "Events"
 </details>
 
 
-
-
-
-
-
-
-
-
-
-
-### Other events at Nav
+### Andre arrangementer hos Nav
 
 - [Mangfold i mai](https://mangfoldimai.no/)
 - KI: Quo vadis?
 
-### Events arranged by others
+### Arrangementer utomhus
 
 - [Arendalsuka](https://www.arendalsuka.no/programsoek/details/40959)
 - [AI Fairness Cluster Conference & AIMMES Workshop](https://ai-fairness-cluster.zohobackstage.com/AIFairnessClusterConference2025)

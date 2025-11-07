@@ -1,35 +1,30 @@
 ---
-title: "Projects"
+title: "Prosjekter"
 ---
 
-## Model Cards
+## Modellkort
 
-A model card is a short, standardised document that accompanies ML-models carrying key information about the model. They make the model’s capabilities, constraints, and ethical footprint explicit, enabling responsible deployment and easier governance.
+Et [modellkort](https://arxiv.org/abs/1810.03993) er et kort, standardisert dokument inneholder nøkkelinformasjon om en maskinlæringsmodell. Hensikten er å gjøre modellens egenskaper, begrensninger og etiske fotavtrykk tydelige, og legge tilrette for ansvarlig bruk og enklere styring.
 
- Model cards contribute to:
+Modellkort kan bidra til:
 
-* **Transparency** : Stakeholders can quickly the models intendended purpose, training data, performance tests and known limitations.
+* **Åpenhet**: Interessenter kan raskt forstå modellens tiltenkte formål, egenskaper ved treniningsdata, hvilke tester og vurderinger som er gjort, utfalle av disse, samt kjente begrensninger ved modellen.
+* **Ansvarlighet**: Strukturert informasjon om hvordan modellen er utviklet og blitt til, forenkler revisjon og etterlevelse.
+* **Sikkerhet**: Ved å synliggjøre bias-målinger, feilscenarier og etiske vurderinger, kan modellkort bidra til å redusere utilsiktet skade.
 
-* **Accountability** : Provenance information improves auditability and compliance.
+Modellkort anbefales som et styringsverktøy. TADA utforsker [praktisk nytte og utfordringer ved realisering](kortstokken) i Nav. 
 
-* **Safety** : Surfacing bias metrics, failure cases and ethical considerations made, model cards can help mitigate unintended harm.
-
-Model cards are recommended as a governance tool. To this end [TADA is exploring their feasbility and fit](kortstokken) in Nav. 
-
-
-## AI-act navigation tools
-TADA is working with KI-gruppa/Juridisk in developing tools to help teams in Nav navigate the upcoming AI-act.
+## Verktøy for KI-forordningen
+TADA jobber sammen med KI-gruppa i juridisk avdeling for å utvikle verktøy som kan hjelpe team med å navigere og etterleve den nye KI-forordningen.
 
 - [Er jeg provicder eller deployer?](https://beslutt.nav.no/tree.html?id=provider-deployer)
 
 - [Hvilket risikonivå har KI-systemet mitt?](https://beslutt.nav.no/tree.html?id=risiko)
 
-## Tools and articles
+## Verktøy og artikler
 
 - [Beslutt](https://beslutt.nav.no/)
-- [Principles for responsible AI](https://aksel.nav.no/god-praksis/artikler/prinsipper-for-ansvarlig-ki-i-nav)
+- [Prinsipper for ansvarlig KI i Nav](https://aksel.nav.no/god-praksis/artikler/prinsipper-for-ansvarlig-ki-i-nav)
 
 
-
-## Analyses
 

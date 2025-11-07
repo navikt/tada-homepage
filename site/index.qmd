@@ -24,10 +24,10 @@ Vi gir tilbakemeldinger, veiledning og teknisk bistand, i tillegg til å bidra t
 - Analyse av NKS-løsningen "Bob" opp mot Navs prinsipper for ansvarlig KI. 
 - Ferdigstille [analyse](https://data.ansatt.nav.no/quarto/a88016a5-d1f6-4702-b865-e668839538c3/index.html) av løsningen [Superrask Søknad](https://arbeidsplassen.nav.no/superrask-soknad-person)
 - Inspill til Navs høringssvar til [høring til utkast til ny lov om kunstig intelligens](https://www.regjeringen.no/no/dokumenter/3112327/id3112327/)
-– Deltar og bistår i kjernegruppen som utarbeider et styringssystem for kunstig intelligens i Nav.
+- Deltar og bistår i kjernegruppen som utarbeider et styringssystem for kunstig intelligens i Nav.
 - Utvikling av verktøy for avhjelpe team med å forstå sine forpliktelser ifm KI-forordningen
-– Planlegge TADAgen 10. november med fokus på krav til språkmodeller i offentlig forvaltning.
-– Denne hjemmesiden…
+- Planlegge TADAgen 10. november med fokus på krav til språkmodeller i offentlig forvaltning.
+- Denne hjemmesiden…
 
 ## Noe du lurer på eller noe vi kan hjelpe med?
 - Ta kontakt på [Slack.](https://nav-it.slack.com/archives/C03CXENSLMV)

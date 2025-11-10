@@ -1,7 +1,7 @@
 # tada-homepage
 En ekte hjemmeside.  Her deler Team TADA info om hva vi jobber med. 
 
-Besøk oss på [tada.nav.no](https://tada.ansatt.nav.no/).
+Besøk oss på [tada.ansatt.nav.no](https://tada.ansatt.nav.no/).
 
 ## Hvordan redigere sidene?
 Sidenes innhold kan enten redigeres direkte i GitHub sin grensesnitt, eller ved å klone repoen.  Sidene bygges via GitHub-workflow'en, så du trenger ikke bygge selv.
